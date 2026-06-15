@@ -113,8 +113,8 @@ function buildTable() {
     </td>
   <tr>
     <td class="menu" id="folder-bar" colspan="${size}">
-      <div id="folder1"><a href="https://github.com/Oblivion254?tab=repositories" target="blank">Read Me </a></div>
-      <div id="folder2"><a href="https://github.com/Oblivion254?tab=repositories" target="blank">Source Code</a></div>
+      <div id="folder1"><a href="https://github.com/Oblivion254/Minescreamer/blob/2e43c4b3dfe0972e95d63578ce4ba9bc2eff004b/minesweeper/readme.md" target="blank">Read Me </a></div>
+      <div id="folder2"><a href="https://github.com/Oblivion254/Minescreamer/tree/2e43c4b3dfe0972e95d63578ce4ba9bc2eff004b/minesweeper" target="blank">Source Code</a></div>
     </td>
   </tr>
   </tr>
